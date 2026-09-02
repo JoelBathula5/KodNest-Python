@@ -2,26 +2,28 @@
 
 ## My Name
 
-Write your name.
+Bathula Joel
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+1. logical thinking
+2. conditions
+3. Problem solving
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Python is easy to learn it is used in many fields.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+To become a Data Engineer
 
 ## What I Understood Today
 
-Complete these sentences:
-
 Programming means:
+writing code to perform some tasks
 
 Python is:
-
+A high-level, interpreted programming language
 In this track, I will learn:
+python from basics
